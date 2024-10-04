@@ -1,1 +1,0 @@
-To facilitate code reproduction, we provide a trained model for testing.
