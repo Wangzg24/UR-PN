@@ -1,4 +1,4 @@
-# **A Universal Background-Supervised Prototypical Networks Enhanced by Rectification Loss for Few-Shot Relation Classification** **(RLUBSPN)**
+# **A Universal Background-Supervised and Rectification Loss Enhanced Prototypical Network for Few-Shot Relation Classification** **(UR-PN)**
 
 ## 1. Files Introduction
 
