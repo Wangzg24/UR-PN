@@ -102,4 +102,4 @@ However, we recommend the first command.
 
 ## 5. Cite
 
-If you would like to cite this article or use data published in this article, please use the citation format uploaded later. f you have any questions, please contact email Wangzg24@mails.jlu.edu.cn.
+If you would like to cite this article or use data published in this article, please use the citation format uploaded later.
