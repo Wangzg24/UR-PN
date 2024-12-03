@@ -22,6 +22,7 @@ class MATPN_TRI(fewshot_re_kit.framework.FewShotREModel):
     
     
     def __dist__(self, x, y, dim):
+        self.dot = False
         if self.dot:
             return (x * y).sum(dim)
         else:
